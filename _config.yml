@@ -3,7 +3,7 @@ description: Personal website and blog
 theme: minima
 plugins:
   - jekyll-feed
-  
+
 # Replace these with your real links before publishing
 email: m.bonotto@outlook.com
 linkedin_url: https://www.linkedin.com/in/matteo-bonotto/
@@ -12,5 +12,5 @@ cv_url: assets/files/cv.pdf
 
 # Build settings
 markdown: kramdown
-permalink: /blog/:title/
+# permalink: /blog/:title/
 show_downloads: false

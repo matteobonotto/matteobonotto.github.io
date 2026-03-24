@@ -11,9 +11,11 @@ title: Home
   <div class="hero-copy">
     <h1>Matteo Bonotto</h1>
     <p class="lead">
-      AI researcher and engineer focused on large-scale reasoning models, distributed training,
-      RL-based post-training, and efficient inference. I enjoy building systems that combine strong
-      modeling with practical optimization.
+      I am a ML research engineer with deep expertise in machine learning, scientific computing, nuclear
+fusion energy. I have several years of experience as a research engineer in machine learning. I my duties, I
+have fun developing craft models, writing custom kernels to optimize speed/memory, and doing distributed
+training on GPU clusters. Prior to that, I’ve been a researcher in magnetic confinement fusion, where I
+developed FEM-based tools for plasma equilibrium computation and plasma control in tokamaks.
     </p>
 
     <p class="meta-row">

@@ -1,7 +1,9 @@
 title: Matteo Bonotto
 description: Personal website and blog
-theme: jekyll-theme-minimal
-
+theme: minima
+plugins:
+  - jekyll-feed
+  
 # Replace these with your real links before publishing
 email: m.bonotto@outlook.com
 linkedin_url: https://www.linkedin.com/in/matteo-bonotto/

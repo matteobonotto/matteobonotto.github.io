@@ -1,3 +1,13 @@
 theme: jekyll-theme-minimal
 title: Octocat's homepage
 description: Bookmark this to keep an eye on my project updates!
+
+nav:
+  - title: "About"
+    url: /about/
+  - title: "Blog"
+    url: /year-archive/
+  - title: "Projects"
+    url: /projects/
+  - title: "CV"
+    url: /cv/

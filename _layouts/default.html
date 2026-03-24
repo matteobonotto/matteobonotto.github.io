@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{{ site.description }}" />
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="nav-left">
+        <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a>
+        <a href="{{ '/blogs/' | relative_url }}" class="{% if page.url == '/blogs/' %}active{% endif %}">Blogs</a>
+      </div>
+      <div class="nav-right">
+        <a href="{{ site.cv_url | relative_url }}">CV</a>
+        <a href="mailto:{{ site.email }}">Email</a>
+        <a href="{{ site.linkedin_url }}" target="_blank" rel="noreferrer">LinkedIn</a>
+        <a href="{{ site.github_url }}" target="_blank" rel="noreferrer">GitHub</a>
+      </div>
+    </header>
+
+    <main class="page-wrap">
+      {{ content }}
+    </main>
+  </body>
+</html>

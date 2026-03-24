@@ -1,13 +1,14 @@
+title: Matteo Bonotto
+description: Personal website and blog
 theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
 
-nav:
-  - title: "About"
-    url: /about/
-  - title: "Blog"
-    url: /year-archive/
-  - title: "Projects"
-    url: /projects/
-  - title: "CV"
-    url: /cv/
+# Replace these with your real links before publishing
+email: your.email@example.com
+linkedin_url: https://www.linkedin.com/in/your-handle/
+github_url: https://github.com/your-username
+cv_url: /cv/
+
+# Build settings
+markdown: kramdown
+permalink: /blog/:title/
+show_downloads: false

@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 title: Home
 ---
@@ -23,4 +23,25 @@ title: Home
     </p>
   </div>
 </section>
+ -->
+---
+layout: default
+title: Home
+---
 
+<div class="profile-section">
+  <div class="profile-pic">
+    <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Profile Picture">
+  </div>
+  <div class="profile-text">
+    <h1>Hello, I'm [Your Name]</h1>
+    <p>
+      I am a [Your Profession/Role] based in [Location]. I specialize in 
+      building clean, functional, and user-centric digital experiences. 
+    </p>
+    <p>
+      Currently, I am working on [Project Name] and exploring the world of Jekyll 
+      and GitHub Pages. Welcome to my little corner of the internet!
+    </p>
+  </div>
+</div>

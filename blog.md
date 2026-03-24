@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Blogs
-permalink: /blogs/
+title: Blog
+permalink: /blog/
 ---
 
 <section class="section">
-  <div class="section-title">Blogs</div>
+  <div class="section-title">Blog</div>
   <div class="blog-list">
     {% for post in site.posts %}
       <article class="blog-card">

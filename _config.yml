@@ -3,10 +3,10 @@ description: Personal website and blog
 theme: jekyll-theme-minimal
 
 # Replace these with your real links before publishing
-email: your.email@example.com
-linkedin_url: https://www.linkedin.com/in/your-handle/
-github_url: https://github.com/your-username
-cv_url: /cv/
+email: m.bonotto@outlook.com
+linkedin_url: https://www.linkedin.com/in/matteo-bonotto/
+github_url: https://github.com/matteobonotto
+cv_url: assets/files/cv.pdf
 
 # Build settings
 markdown: kramdown

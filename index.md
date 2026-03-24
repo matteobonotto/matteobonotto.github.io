@@ -18,7 +18,7 @@ title: Home
 </section>
 
 
-<section class="hero">
+<!-- <section class="hero">
   <div class="hero-copy">
     <p class="meta-row">
       <strong>Interests:</strong> ---.
@@ -45,5 +45,5 @@ title: Home
     </article>
 
   </div>
-</section>
+</section> -->
 

@@ -27,12 +27,23 @@ title: Home
   </div>
 </section>
 
-<section class="hero">
-  <div class="hero-copy">
+<section class="section">
+  <div class="section-title">Experience</div>
 
-    <p class="meta-row">
-      <strong>Experience:</strong> ---
-    </p>
+  <div class="timeline">
+    <article class="entry">
+      <div class="entry-year">04/2024 — Present</div>
+      <div class="entry-card">
+        <h3>Senior AI Research Scientist</h3>
+        <div class="where">Giotto AI</div>
+        <div class="place">Lausanne, Switzerland</div>
+        <ul>
+          <li>......</li>
+          <li>......</li>
+        </ul>
+      </div>
+    </article>
+
   </div>
 </section>
 

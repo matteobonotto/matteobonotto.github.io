@@ -5,7 +5,7 @@ title: Home
 
 <section class="hero">
   <div class="hero-image">
-    <img src="{{ '/assets/img/profile.png' | relative_url }}" alt="Profile photo" />
+    <img src="{{ '/assets/img/profile.jpeg' | relative_url }}" alt="Profile photo" />
   </div>
 
   <div class="hero-copy">

@@ -1,0 +1,14 @@
+{%- assign default_paths = site.html_pages | map: 'path' -%}
+{%- assign page_paths = site.header_pages | default: default_paths -%}
+<header>
+  <div class="menu">
+    <ul>
+      <li><a href="{{ '/' | relative_url }}">Home</a></li>
+      <!-- <li><a href="{{ '/blogs/' | relative_url }}">Blogs</a></li> -->
+      <li><a href="{{ site.cv_url | relative_url }}">CV</a></li>
+      <li><a href="mailto:{{ site.email }}">Email</a></li>
+      <li><a href="{{ site.linkedin_url }}" target="_blank" rel="noreferrer">LinkedIn</a></li>
+      <li><a href="{{ site.github_url }}" target="_blank" rel="noreferrer">GitHub</a></li>
+    </ul>
+  </div>
+</header>

@@ -1,0 +1,52 @@
+I"9<div class="intro-section">
+  <div class="intro-image">
+    ![Profile Picture](assets/img/44099540.jpeg)
+  </div>
+  <div class="intro-text">
+    ## Matteo Bonotto, Ph.D.
+
+I am a ML research engineer with deep expertise in machine learning, scientific computing, nuclear fusion energy. I have several years of experience as a research engineer in machine learning. In my duties, I have fun developing craft models, writing custom kernels to optimize speed/memory, and doing distributed training on GPU clusters. Prior to that, I've been a researcher in magnetic confinement fusion, where I developed FEM-based tools for plasma equilibrium computation and plasma control in tokamaks.
+  </div>
+</div>
+
+<h2 id="experience">Experience</h2>
+
+<h3 id="giottoai--lausanne-switzerland">Giotto.ai — Lausanne, Switzerland</h3>
+<p><strong>Senior AI Research Scientist</strong> | Apr. 2024 – Present, Full-time</p>
+<ul>
+  <li>Core machine learning research focused on Transformers and LLMs. Contributed to solutions awarded the gold medal in the Kaggle ARC Prize (2024 and 2025).
+• Implemented transformers models from scratch with custom internals. Optimized kernels (Triton), improving speed by 10× and memory efficiency by 18×.</li>
+  <li>Conducted distributed training on GPU clusters.</li>
+  <li>Led a team of 4 researchers.</li>
+</ul>
+
+<h4 id="eni--milan-italy">Eni — Milan, Italy</h4>
+<p><strong>AI Scientist</strong> | Jan. 2023 – Mar. 2024, Full-time
+• Designed and implemented custom AI solutions for R&amp;D and industrial applications. Collaborated with MIT
+scientists to develop a tokamak disruption prediction algorithm that outperformed state-of-the-art approaches by
+5% in accuracy.
+• Mentored junior teammates and shared ML best practices in a team of 30.</p>
+
+<h4 id="national-institute-for-nuclear-physics--padua-italy">National Institute for Nuclear Physics — Padua, Italy</h4>
+<p><strong>Research Scientist</strong> | Jan. 2021 – Dec. 2022, Full-time
+• Mathematical modeling for plasma physics, electromagnetics, and magnetic confinement fusion.
+• Developed and open-sourced a physics-informed-ML-based model for plasma equilibrium achieving 10x
+speedup compared to SOTA.</p>
+
+<h4 id="rfx-consortium--padua-italy">RFX Consortium — Padua, Italy</h4>
+<p><strong>Research Scientist</strong> | Oct. 2019 – Dec. 2020, Full-time
+• Developed and open-sourced a FEM-based tool for plasma equilibrium with novel formulation for boundary
+conditions.</p>
+
+<h4 id="general-atomics--san-diego-california">General Atomics — San Diego, California</h4>
+<p><strong>Visiting Ph.D. Student</strong> | Sep. 2019 – Dec. 2019 and May 2020 – Aug. 2020 Dec. 2020
+• Advanced mathematical models for coupling MHD and electromagnetic phenomena. Expanded modeling
+capabilities of existing linear MHD code to model non-linear growth rates of Resistive Wall Modes plasma
+instrabilities.</p>
+
+<h4 id="dep-of-information-engineering---univ-of-padua-padua--padua-italy">Dep. of Information Engineering - Univ. of Padua Padua — Padua, Italy</h4>
+<p><strong>Research Scientist</strong> | Jun. 2015 – May 2016, Full-time
+• Model order reduction to large-scale electromagnetic simulations for control applications. Expanded modeling
+capabilities of existing static plasma state estimation tool to estimate plasma states dynamically along the entire
+plasma discharge.</p>
+:ET

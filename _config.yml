@@ -1,16 +1,40 @@
-title: Matteo Bonotto
-description: Personal website and blog
-theme: minima
-plugins:
-  - jekyll-feed
+# Example Site settings
 
-# Replace these with your real links before publishing
+header_pages:
+ - index.md
+ - about.md
+
+
+plugins:
+  - jekyll-seo-tag
+
+# Theme options
+style: light # dark (default) or light or hacker
+listen_for_clients_preferred_style: true # true or false (default)
+
 email: m.bonotto@outlook.com
 linkedin_url: https://www.linkedin.com/in/matteo-bonotto/
 github_url: https://github.com/matteobonotto
-cv_url: assets/files/cv.pdf
+cv_url: /assets/files/cv.pdf
+scholar_url: https://scholar.google.com/citations?user=7i7duBgAAAAJ&hl=en
+profile_image: /assets/img/44099540.jpeg
 
-# Build settings
-markdown: kramdown
-# permalink: /blog/:title/
-show_downloads: false
+# Fonts
+# disable_google_fonts: false # set true to prevent loading fonts.googleapis.com
+
+# Tracking (generic, optional; loads only in production)
+# tracking:
+#   script_src:
+#     - https://analytics.example.com/matomo.js
+#   async: true   # default true
+#   defer: false  # default false
+#   # Optional inline init snippet (requires CSP allowance if used)
+#   # init: |
+#   #   var _paq = window._paq = window._paq || [];
+#   #   _paq.push(['trackPageView']);
+#   #   _paq.push(['enableLinkTracking']);
+#   #   _paq.push(['setTrackerUrl', 'https://analytics.example.com/matomo.php']);
+#   #   _paq.push(['setSiteId', '1']);
+#
+# # Extend CSP to allow your tracker sources (script-src/connect-src/img-src as needed)
+# # csp_extra: "script-src 'self' https://analytics.example.com; connect-src 'self' https://analytics.example.com; img-src 'self' https://analytics.example.com;"

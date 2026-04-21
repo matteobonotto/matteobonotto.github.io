@@ -6,13 +6,13 @@ layout: default
 
 ## Matteo Bonotto, Ph.D.
 
-I am a **ML research engineer** with deep expertise in machine learning, scientific computing, nuclear fusion energy. I have several years of experience as a research engineer in machine learning, computational physics and magnetic confinement fusion.
+I am a **ML research engineer** with deep expertise in machine learning, scientific computing, and nuclear fusion energy. I have several years of experience as a research engineer in machine learning, computational physics, and magnetic confinement fusion.
 
-At Giotto.ai I'm doing core machine learning, with a focus on Transformers and LLMs. I've contributed to solutions awarded the **gold medal** in the Kaggle ARC Prize (2024 and 2025). I'm doing distributed training, implementing and optimizing custom internals of transformers models and help maintaining out ML infrastructure.
+At Giotto.ai, I'm doing core machine learning, with a focus on Transformers and LLMs. I've contributed to solutions awarded the **gold medal** in the Kaggle ARC Prize (2024 and 2025). I'm doing distributed training, implementing and optimizing custom internals of transformer models, and helping maintain our ML infrastructure.
 
-Previously, I worked at Eni, where I developed AI solutions for industrial applications in the energy sector. Among other things, I've been working a lot on disruption prediction, collaborating with MIT PSFC scientists.
+Previously, I worked at Eni, where I developed AI solutions for industrial applications in the energy sector. Among other things, I've been working a lot on disruption prediction, in collaboration with MIT PSFC scientists.
 
-And before that, I've been a researcher in magnetic confinement fusion, the same field where I got my Ph.D. I've been working Mathematical modeling for plasma physics, electromagnetics, and magnetic confinement fusion (here ...). I've been developing surrogate models of plasma equilibrium using Physics informed neural operators, and I developed and a FEM-based tool for plasma equilibrium with novel formulation for boundary conditions (here ...), and many additional stuff!
+And before that, I've been a researcher in magnetic confinement fusion, the same field where I got my Ph.D. I've been working on mathematical modeling for plasma physics, electromagnetics, and magnetic confinement fusion (see [PlaNet](https://github.com/matteobonotto/planet-equil) and [this dataset](https://github.com/matteobonotto/ITERlike-equilibrium-dataset)). I've been developing surrogate models of plasma equilibrium using physics-informed neural operators, and I developed a FEM-based tool for plasma equilibrium with a novel formulation for boundary conditions ([FRIDA](https://github.com/matteobonotto/frida)), and many additional things!
 
 
 

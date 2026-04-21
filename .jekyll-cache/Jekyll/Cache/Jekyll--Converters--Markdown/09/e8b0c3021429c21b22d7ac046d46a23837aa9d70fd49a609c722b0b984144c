@@ -1,20 +1,14 @@
----
-title: Mattto Bonotto
-layout: default
-# permalink: /
----
+I"�<h2 id="matteo-bonotto-phd">Matteo Bonotto, Ph.D.</h2>
 
-## Matteo Bonotto, Ph.D.
+<p>I am a <strong>ML research engineer</strong> with deep expertise in machine learning, scientific computing, nuclear fusion energy. I have several years of experience as a research engineer in machine learning. In my duties, I have fun developing craft models, writing custom kernels to optimize speed/memory, and doing distributed training on GPU clusters.</p>
 
-I am a **ML research engineer** with deep expertise in machine learning, scientific computing, nuclear fusion energy. I have several years of experience as a research engineer in machine learning, computational physics and magnetic confinement fusion.
+<p>At Giotto.ai I’m doing core machine learning, with a focus on Transformers and LLMs. I’ve contributed to solutions awarded the <strong>gold medal</strong> in the Kaggle ARC Prize (2024 and 2025). I’m doing distributed training on GPU clusters, and implementing transformers models from scratch, taking care of kernel optimization (Triton), which led to <strong>improved speed by 10× and memory efficiency by 18×</strong>.</p>
 
-At Giotto.ai I'm doing core machine learning, with a focus on Transformers and LLMs. I've contributed to solutions awarded the **gold medal** in the Kaggle ARC Prize (2024 and 2025). I'm doing distributed training, implementing and optimizing custom internals of transformers models and help maintaining out ML infrastructure.
+<p>Previously, I worked at Eni, where I developed AI solutions for industrial applications in the energy sector.</p>
 
-Previously, I worked at Eni, where I developed AI solutions for industrial applications in the energy sector. Among other things, I've been working a lot on disruption prediction, collaborating with MIT PSFC scientists.
+<p>And before that, I’ve been a researcher in magnetic confinement fusion, the same field where I got my Ph.D.</p>
 
-And before that, I've been a researcher in magnetic confinement fusion, the same field where I got my Ph.D. I've been working Mathematical modeling for plasma physics, electromagnetics, and magnetic confinement fusion (here ...). I've been developing surrogate models of plasma equilibrium using Physics informed neural operators, and I developed and a FEM-based tool for plasma equilibrium with novel formulation for boundary conditions (here ...), and many additional stuff!
-
-
+<p>Prior to that, I’ve been a researcher in magnetic confinement fusion, where I developed FEM-based tools for plasma equilibrium computation and plasma control in tokamaks.</p>
 
 <!-- ## Experience
 
@@ -54,3 +48,4 @@ instrabilities.
 • Model order reduction to large-scale electromagnetic simulations for control applications. Expanded modeling
 capabilities of existing static plasma state estimation tool to estimate plasma states dynamically along the entire
 plasma discharge. -->
+:ET

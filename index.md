@@ -7,7 +7,7 @@ layout: default
 ## Matteo Bonotto, Ph.D.
 
 
-I am a **Senior AI Research Engineer** specializing in large language models, high-performance deep learning, and scientific computing. My work spans the LLM stack, from model architecture and training to GPU optimization, distributed systems, evaluation, large-scale inference and agentic harness design.
+I am a **Senior AI Research Engineer** specialized in large language models, high-performance deep learning, and scientific computing. My work spans the LLM stack, from model architecture and training to GPU optimization, distributed systems, evaluation, large-scale inference and agentic harness design.
 
 At Giotto.ai, I work on core LLM research and engineering. My current work includes designing and implementing custom Transformer architectures, distributed training on multi-node GPU clusters, GPU kernel optimization with Triton, and scalable LLM inference across NVIDIA and AMD accelerators. I also work on reasoning and agentic systems, model evaluation, quantization, and long-context inference. I contributed to solutions awarded **gold medals** in the Kaggle ARC Prize in 2024 and 2025.
 
